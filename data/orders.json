@@ -1,0 +1,232 @@
+[
+  {
+    "order_id": "ORD-10021",
+    "customer": "Sarah M.",
+    "date": "2025-05-28",
+    "status": "Delivered",
+    "items": [
+      {
+        "product": "Floral Wrap Midi Dress",
+        "size": "M",
+        "color": "Blue Floral",
+        "qty": 1,
+        "price": 89.99
+      }
+    ],
+    "total": 97.48,
+    "tracking": "TRK884512367",
+    "estimated_delivery": "2025-06-02",
+    "delivered_on": "2025-06-01",
+    "shipping_address": "12 Maple St, London, UK"
+  },
+  {
+    "order_id": "ORD-10034",
+    "customer": "James K.",
+    "date": "2025-06-01",
+    "status": "Shipped",
+    "items": [
+      {
+        "product": "Slim Fit Dark Wash Jeans",
+        "size": "32",
+        "color": "Dark Blue",
+        "qty": 1,
+        "price": 64.99
+      },
+      {
+        "product": "Classic White Oxford Shirt",
+        "size": "M",
+        "color": "White",
+        "qty": 1,
+        "price": 49.99
+      }
+    ],
+    "total": 125.47,
+    "tracking": "TRK991023445",
+    "estimated_delivery": "2025-06-07",
+    "delivered_on": null,
+    "shipping_address": "88 King Road, Manchester, UK"
+  },
+  {
+    "order_id": "ORD-10041",
+    "customer": "Priya S.",
+    "date": "2025-06-03",
+    "status": "Out for Delivery",
+    "items": [
+      {
+        "product": "High-Waist Yoga Leggings",
+        "size": "S",
+        "color": "Black",
+        "qty": 2,
+        "price": 44.99
+      }
+    ],
+    "total": 97.47,
+    "tracking": "TRK774893201",
+    "estimated_delivery": "2025-06-07",
+    "delivered_on": null,
+    "shipping_address": "5 Park Avenue, Berlin, DE"
+  },
+  {
+    "order_id": "ORD-10055",
+    "customer": "Lucas B.",
+    "date": "2025-06-04",
+    "status": "Processing",
+    "items": [
+      {
+        "product": "Tailored Blazer",
+        "size": "L",
+        "color": "Navy",
+        "qty": 1,
+        "price": 129.99
+      }
+    ],
+    "total": 137.48,
+    "tracking": null,
+    "estimated_delivery": "2025-06-10",
+    "delivered_on": null,
+    "shipping_address": "34 Rue de Lyon, Paris, FR"
+  },
+  {
+    "order_id": "ORD-10062",
+    "customer": "Emma W.",
+    "date": "2025-06-05",
+    "status": "Confirmed",
+    "items": [
+      {
+        "product": "Trench Coat",
+        "size": "S",
+        "color": "Camel",
+        "qty": 1,
+        "price": 149.99
+      },
+      {
+        "product": "Chunky Knit Beanie",
+        "size": "One Size",
+        "color": "Cream",
+        "qty": 1,
+        "price": 24.99
+      }
+    ],
+    "total": 185.47,
+    "tracking": null,
+    "estimated_delivery": "2025-06-11",
+    "delivered_on": null,
+    "shipping_address": "77 Oxford St, London, UK"
+  },
+  {
+    "order_id": "ORD-10070",
+    "customer": "Ahmed R.",
+    "date": "2025-05-25",
+    "status": "Returned",
+    "items": [
+      {
+        "product": "Denim Jacket",
+        "size": "XL",
+        "color": "Light Wash",
+        "qty": 1,
+        "price": 72.99
+      }
+    ],
+    "total": 80.48,
+    "tracking": "TRK662910847",
+    "estimated_delivery": "2025-05-31",
+    "delivered_on": "2025-05-30",
+    "return_reason": "Wrong size",
+    "refund_status": "Refund Processed",
+    "shipping_address": "9 Bay Street, Toronto, CA"
+  },
+  {
+    "order_id": "ORD-10083",
+    "customer": "Nina F.",
+    "date": "2025-06-06",
+    "status": "Processing",
+    "items": [
+      {
+        "product": "Silk Cami Top",
+        "size": "S",
+        "color": "Blush",
+        "qty": 1,
+        "price": 49.99
+      },
+      {
+        "product": "Pleated Mini Skirt",
+        "size": "S",
+        "color": "Pink",
+        "qty": 1,
+        "price": 44.99
+      }
+    ],
+    "total": 101.47,
+    "tracking": null,
+    "estimated_delivery": "2025-06-13",
+    "delivered_on": null,
+    "shipping_address": "22 Elm Close, Sydney, AU"
+  },
+  {
+    "order_id": "ORD-10091",
+    "customer": "Tom H.",
+    "date": "2025-05-20",
+    "status": "Delivered",
+    "items": [
+      {
+        "product": "Oversized Knit Sweater",
+        "size": "M/L",
+        "color": "Burgundy",
+        "qty": 1,
+        "price": 55.99
+      }
+    ],
+    "total": 63.48,
+    "tracking": "TRK554781239",
+    "estimated_delivery": "2025-05-26",
+    "delivered_on": "2025-05-25",
+    "shipping_address": "1 Castle Lane, Edinburgh, UK"
+  },
+  {
+    "order_id": "ORD-10104",
+    "customer": "Sofia L.",
+    "date": "2025-06-06",
+    "status": "Confirmed",
+    "items": [
+      {
+        "product": "Leather Crossbody Bag",
+        "size": "One Size",
+        "color": "Tan",
+        "qty": 1,
+        "price": 119.99
+      }
+    ],
+    "total": 127.48,
+    "tracking": null,
+    "estimated_delivery": "2025-06-12",
+    "delivered_on": null,
+    "shipping_address": "45 Sunset Blvd, Hamburg, DE"
+  },
+  {
+    "order_id": "ORD-10117",
+    "customer": "Daniel P.",
+    "date": "2025-06-07",
+    "status": "Processing",
+    "items": [
+      {
+        "product": "Linen Wide-Leg Trousers",
+        "size": "M",
+        "color": "Sage Green",
+        "qty": 1,
+        "price": 59.99
+      },
+      {
+        "product": "Ribbed Crop Top",
+        "size": "M",
+        "color": "Sage",
+        "qty": 1,
+        "price": 29.99
+      }
+    ],
+    "total": 96.47,
+    "tracking": null,
+    "estimated_delivery": "2025-06-14",
+    "delivered_on": null,
+    "shipping_address": "18 Palm Grove, Dubai, AE"
+  }
+]

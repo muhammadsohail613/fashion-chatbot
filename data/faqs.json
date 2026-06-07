@@ -1,0 +1,122 @@
+[
+  {
+    "id": "F001",
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "We offer a hassle-free 30-day return policy. Items must be unworn, unwashed, and in original packaging with tags attached. Sale items are eligible for exchange or store credit only. To start a return, visit our Returns Portal or contact support."
+  },
+  {
+    "id": "F002",
+    "category": "Returns",
+    "question": "How long does a refund take?",
+    "answer": "Once we receive your returned item, refunds are processed within 3\u20135 business days. The amount will appear on your original payment method within 5\u201310 business days depending on your bank."
+  },
+  {
+    "id": "F003",
+    "category": "Returns",
+    "question": "Can I exchange an item for a different size?",
+    "answer": "Yes! We offer free size exchanges within 30 days of purchase. Simply start an exchange request through our portal, and we'll ship the new size as soon as we receive your return."
+  },
+  {
+    "id": "F004",
+    "category": "Shipping",
+    "question": "How long does standard shipping take?",
+    "answer": "Standard shipping typically takes 3\u20135 business days within the UK and EU. US and Canada orders take 7\u201310 business days. Express shipping (1\u20132 business days) is available at checkout for an additional fee."
+  },
+  {
+    "id": "F005",
+    "category": "Shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes! We offer free standard shipping on all orders over \u00a350 / \u20ac60 / $65. Orders below this threshold have a flat shipping fee of \u00a34.99 / \u20ac5.99 / $6.99."
+  },
+  {
+    "id": "F006",
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "We currently ship to 40+ countries including UK, EU, USA, Canada, Australia, and UAE. Shipping rates and delivery times vary by destination. Duties and taxes may apply for international orders."
+  },
+  {
+    "id": "F007",
+    "category": "Tracking",
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive a confirmation email with your tracking number. You can also track your order by entering your Order ID in our chatbot or visiting the Track Order section on our website."
+  },
+  {
+    "id": "F008",
+    "category": "Sizing",
+    "question": "How do I find my correct size?",
+    "answer": "We recommend checking our Size Guide before ordering. For tops and dresses, measure your bust, waist, and hips. For trousers and jeans, use your waist and inside leg measurement. If you're between sizes, we generally recommend sizing up for a comfortable fit."
+  },
+  {
+    "id": "F009",
+    "category": "Sizing",
+    "question": "Do your clothes run true to size?",
+    "answer": "Most of our styles run true to size. However, some oversized styles are intentionally cut larger \u2014 this is noted on the product page. Our reviews section often includes helpful sizing feedback from customers."
+  },
+  {
+    "id": "F010",
+    "category": "Sizing",
+    "question": "What are your size measurements in cm?",
+    "answer": "XS: Bust 80\u201384cm, Waist 62\u201366cm, Hips 86\u201390cm. S: Bust 84\u201388cm, Waist 66\u201370cm, Hips 90\u201394cm. M: Bust 88\u201394cm, Waist 70\u201376cm, Hips 94\u2013100cm. L: Bust 94\u2013102cm, Waist 76\u201384cm, Hips 100\u2013108cm. XL: Bust 102\u2013110cm, Waist 84\u201392cm, Hips 108\u2013116cm."
+  },
+  {
+    "id": "F011",
+    "category": "Payment",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and Klarna (buy now, pay later). All transactions are secured with SSL encryption."
+  },
+  {
+    "id": "F012",
+    "category": "Payment",
+    "question": "Is it safe to use my credit card on your site?",
+    "answer": "Absolutely. Our website uses industry-standard SSL (256-bit) encryption and is PCI DSS compliant. We never store your full card details on our servers."
+  },
+  {
+    "id": "F013",
+    "category": "Orders",
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placing them. After that, the order enters processing and cannot be changed. Please contact support immediately via chat if you need to make changes."
+  },
+  {
+    "id": "F014",
+    "category": "Orders",
+    "question": "I received the wrong item \u2014 what should I do?",
+    "answer": "We're sorry about that! Please contact our support team within 7 days with your order number and a photo of the wrong item. We'll arrange a free return and ship the correct item at no extra cost."
+  },
+  {
+    "id": "F015",
+    "category": "Products",
+    "question": "Are your products ethically made?",
+    "answer": "Yes. We are committed to ethical sourcing and work only with factories that meet our strict standards for fair wages and safe working conditions. We are also working toward becoming fully sustainable by 2026."
+  },
+  {
+    "id": "F016",
+    "category": "Products",
+    "question": "How do I care for delicate fabrics like silk or wool?",
+    "answer": "Silk items should be hand washed in cool water with a gentle detergent or dry cleaned. Wool should be hand washed cold or machine washed on a wool cycle and dried flat. Always check the care label on the item for specific instructions."
+  },
+  {
+    "id": "F017",
+    "category": "Promotions",
+    "question": "Do you have a student discount?",
+    "answer": "Yes! Students get 15% off all orders through our Student Beans or UNiDAYS partnership. Simply verify your student status through either platform to receive your exclusive discount code."
+  },
+  {
+    "id": "F018",
+    "category": "Promotions",
+    "question": "How do I use a discount code?",
+    "answer": "Enter your discount code in the 'Promo Code' field at checkout. Codes are case-insensitive, and only one code can be applied per order. Some codes may exclude sale items."
+  },
+  {
+    "id": "F019",
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' at the top of our website, enter your email and a password, and verify your email address. Having an account lets you track orders, save your wishlist, and checkout faster."
+  },
+  {
+    "id": "F020",
+    "category": "Account",
+    "question": "I forgot my password \u2014 how do I reset it?",
+    "answer": "Click 'Forgot Password' on the login page, enter your email address, and we'll send a reset link within a few minutes. Check your spam folder if you don't see it. The link expires after 24 hours."
+  }
+]

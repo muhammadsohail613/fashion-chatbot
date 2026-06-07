@@ -1,0 +1,469 @@
+[
+  {
+    "id": "P001",
+    "name": "Classic White Oxford Shirt",
+    "category": "Shirts",
+    "price": 49.99,
+    "sale_price": null,
+    "colors": [
+      "White",
+      "Light Blue",
+      "Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 5,
+      "S": 12,
+      "M": 20,
+      "L": 18,
+      "XL": 10,
+      "XXL": 4
+    },
+    "material": "100% Cotton",
+    "description": "A timeless Oxford shirt perfect for both casual and formal occasions.",
+    "care": "Machine wash cold, tumble dry low",
+    "rating": 4.7,
+    "reviews": 134
+  },
+  {
+    "id": "P002",
+    "name": "Slim Fit Dark Wash Jeans",
+    "category": "Jeans",
+    "price": 79.99,
+    "sale_price": 64.99,
+    "colors": [
+      "Dark Blue",
+      "Black",
+      "Grey"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "stock": {
+      "28": 8,
+      "30": 15,
+      "32": 22,
+      "34": 18,
+      "36": 10,
+      "38": 5
+    },
+    "material": "98% Cotton, 2% Elastane",
+    "description": "Modern slim fit jeans with a comfortable stretch blend.",
+    "care": "Machine wash cold inside out",
+    "rating": 4.5,
+    "reviews": 218
+  },
+  {
+    "id": "P003",
+    "name": "Floral Wrap Midi Dress",
+    "category": "Dresses",
+    "price": 89.99,
+    "sale_price": null,
+    "colors": [
+      "Blue Floral",
+      "Pink Floral",
+      "Black Floral"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 6,
+      "S": 14,
+      "M": 16,
+      "L": 9,
+      "XL": 3
+    },
+    "material": "100% Viscose",
+    "description": "Elegant wrap dress with a flattering silhouette and vibrant floral print.",
+    "care": "Hand wash cold or dry clean",
+    "rating": 4.8,
+    "reviews": 97
+  },
+  {
+    "id": "P004",
+    "name": "Oversized Knit Sweater",
+    "category": "Knitwear",
+    "price": 69.99,
+    "sale_price": 55.99,
+    "colors": [
+      "Cream",
+      "Camel",
+      "Burgundy",
+      "Forest Green"
+    ],
+    "sizes": [
+      "XS/S",
+      "M/L",
+      "XL/XXL"
+    ],
+    "stock": {
+      "XS/S": 10,
+      "M/L": 18,
+      "XL/XXL": 7
+    },
+    "material": "80% Wool, 20% Polyamide",
+    "description": "Cozy oversized sweater with ribbed cuffs and hem, perfect for layering.",
+    "care": "Hand wash cold, dry flat",
+    "rating": 4.6,
+    "reviews": 156
+  },
+  {
+    "id": "P005",
+    "name": "Tailored Blazer",
+    "category": "Jackets",
+    "price": 129.99,
+    "sale_price": null,
+    "colors": [
+      "Black",
+      "Navy",
+      "Camel",
+      "Houndstooth"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 4,
+      "S": 9,
+      "M": 12,
+      "L": 8,
+      "XL": 4
+    },
+    "material": "65% Polyester, 35% Viscose",
+    "description": "Sharp tailored blazer that transitions seamlessly from office to evening.",
+    "care": "Dry clean only",
+    "rating": 4.4,
+    "reviews": 83
+  },
+  {
+    "id": "P006",
+    "name": "High-Waist Yoga Leggings",
+    "category": "Activewear",
+    "price": 54.99,
+    "sale_price": 44.99,
+    "colors": [
+      "Black",
+      "Navy",
+      "Charcoal",
+      "Rose"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 14,
+      "S": 22,
+      "M": 26,
+      "L": 18,
+      "XL": 10
+    },
+    "material": "78% Nylon, 22% Spandex",
+    "description": "Squat-proof high-waist leggings with a hidden pocket and 4-way stretch.",
+    "care": "Machine wash cold, hang dry",
+    "rating": 4.9,
+    "reviews": 342
+  },
+  {
+    "id": "P007",
+    "name": "Leather Crossbody Bag",
+    "category": "Accessories",
+    "price": 119.99,
+    "sale_price": null,
+    "colors": [
+      "Black",
+      "Tan",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 25
+    },
+    "material": "Genuine Leather",
+    "description": "Compact crossbody bag with adjustable strap and gold hardware.",
+    "care": "Wipe with damp cloth, condition regularly",
+    "rating": 4.7,
+    "reviews": 76
+  },
+  {
+    "id": "P008",
+    "name": "Linen Wide-Leg Trousers",
+    "category": "Trousers",
+    "price": 74.99,
+    "sale_price": 59.99,
+    "colors": [
+      "White",
+      "Beige",
+      "Black",
+      "Sage Green"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 7,
+      "S": 13,
+      "M": 17,
+      "L": 14,
+      "XL": 8,
+      "XXL": 3
+    },
+    "material": "100% Linen",
+    "description": "Breezy wide-leg trousers, perfect for warm weather and beach-to-brunch outfits.",
+    "care": "Machine wash cold, iron on low",
+    "rating": 4.5,
+    "reviews": 112
+  },
+  {
+    "id": "P009",
+    "name": "Ribbed Crop Top",
+    "category": "Tops",
+    "price": 29.99,
+    "sale_price": null,
+    "colors": [
+      "White",
+      "Black",
+      "Camel",
+      "Lilac",
+      "Sage"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 18,
+      "S": 24,
+      "M": 20,
+      "L": 12,
+      "XL": 6
+    },
+    "material": "95% Cotton, 5% Elastane",
+    "description": "Soft ribbed crop top with a slight stretch, ideal for layering or standalone summer wear.",
+    "care": "Machine wash cold",
+    "rating": 4.3,
+    "reviews": 201
+  },
+  {
+    "id": "P010",
+    "name": "Trench Coat",
+    "category": "Coats",
+    "price": 189.99,
+    "sale_price": 149.99,
+    "colors": [
+      "Camel",
+      "Black",
+      "Navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 3,
+      "S": 7,
+      "M": 10,
+      "L": 8,
+      "XL": 5,
+      "XXL": 2
+    },
+    "material": "65% Cotton, 35% Polyester",
+    "description": "Classic double-breasted trench coat with a belted waist and storm flap.",
+    "care": "Dry clean only",
+    "rating": 4.8,
+    "reviews": 67
+  },
+  {
+    "id": "P011",
+    "name": "Strappy Heeled Sandals",
+    "category": "Shoes",
+    "price": 84.99,
+    "sale_price": null,
+    "colors": [
+      "Nude",
+      "Black",
+      "Gold"
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "stock": {
+      "36": 5,
+      "37": 9,
+      "38": 12,
+      "39": 10,
+      "40": 7,
+      "41": 4
+    },
+    "material": "Faux Leather upper, synthetic sole",
+    "description": "Elegant strappy sandals with a 7cm block heel for all-day comfort.",
+    "care": "Wipe clean with damp cloth",
+    "rating": 4.2,
+    "reviews": 88
+  },
+  {
+    "id": "P012",
+    "name": "Denim Jacket",
+    "category": "Jackets",
+    "price": 89.99,
+    "sale_price": 72.99,
+    "colors": [
+      "Light Wash",
+      "Dark Wash",
+      "Black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "XS": 6,
+      "S": 11,
+      "M": 15,
+      "L": 13,
+      "XL": 7,
+      "XXL": 3
+    },
+    "material": "100% Cotton Denim",
+    "description": "A wardrobe staple denim jacket with button front and chest pockets.",
+    "care": "Machine wash cold, tumble dry low",
+    "rating": 4.6,
+    "reviews": 189
+  },
+  {
+    "id": "P013",
+    "name": "Silk Cami Top",
+    "category": "Tops",
+    "price": 64.99,
+    "sale_price": 49.99,
+    "colors": [
+      "Champagne",
+      "Black",
+      "Navy",
+      "Blush"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 8,
+      "S": 14,
+      "M": 16,
+      "L": 10,
+      "XL": 4
+    },
+    "material": "100% Silk",
+    "description": "Luxurious silk cami with adjustable straps, great for layering or going out.",
+    "care": "Hand wash cold or dry clean",
+    "rating": 4.5,
+    "reviews": 93
+  },
+  {
+    "id": "P014",
+    "name": "Pleated Mini Skirt",
+    "category": "Skirts",
+    "price": 44.99,
+    "sale_price": null,
+    "colors": [
+      "Black",
+      "Pink",
+      "Plaid",
+      "White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": {
+      "XS": 10,
+      "S": 18,
+      "M": 20,
+      "L": 14,
+      "XL": 6
+    },
+    "material": "Polyester blend",
+    "description": "Trendy pleated mini skirt with an elastic waistband and fun movement.",
+    "care": "Machine wash cold",
+    "rating": 4.4,
+    "reviews": 147
+  },
+  {
+    "id": "P015",
+    "name": "Chunky Knit Beanie",
+    "category": "Accessories",
+    "price": 24.99,
+    "sale_price": null,
+    "colors": [
+      "Cream",
+      "Camel",
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "stock": {
+      "One Size": 45
+    },
+    "material": "100% Acrylic",
+    "description": "Super soft chunky knit beanie to keep you warm in style.",
+    "care": "Hand wash cold, dry flat",
+    "rating": 4.8,
+    "reviews": 220
+  }
+]
